@@ -1,0 +1,96 @@
+site_name: "ROUTE46" 
+site_url: https://techhub.example.com
+repo_url: https://github.com/seu-repo
+repo_name: "seu-repo"
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt
+  features:
+    - navigation.indexes
+    - content.code.copy  # Ativa recursos avançados
+  static_templates:
+    - 404.html
+  palette:
+    - scheme: slate
+      primary: deep-purple
+      accent: cyan
+      toggle:
+        icon: material/lightbulb-outline
+        name: "Alternar para o modo claro"
+    - scheme: default
+      primary: deep-purple
+      accent: cyan
+      toggle:
+        icon: material/lightbulb
+        name: "Alternar para o modo escuro"
+  font:
+    text: Roboto
+    code: Roboto Mono
+    #logo: assets/logo.svg
+    #favicon: assets/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/seu-perfil
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/seu-perfil
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/seu-perfil
+  generator: false
+
+nav:
+  - Blog:
+    - blog/index.md
+  - Home: index.md
+  - Frontend:
+      - HTML & CSS: frontend/html-css.md
+      - JavaScript: frontend/javascript.md
+      - React: frontend/react.md
+      - Vue.js: frontend/vue.md
+  - Backend:
+      - Node.js: backend/node.md
+      - Python & Flask: backend/python-flask.md
+      - Java & Spring Boot: backend/java-spring.md
+  - DevOps:
+      - Docker: devops/docker.md
+      - Kubernetes: devops/kubernetes.md
+      - CI/CD: devops/cicd.md
+  - Inteligência Artificial:
+      - Introdução: ia/intro.md
+      - Machine Learning: ia/machine-learning.md
+      - Deep Learning: ia/deep-learning.md
+  - Cloud:
+      - AWS: cloud/aws.md
+      - Azure: cloud/azure.md
+      - Google Cloud: cloud/gcp.md
+  - Contato: contato.md
+
+plugins:
+  - blog
+  - search
+  - social
+  - minify:
+      minify_html: true
+  - markdownextradata
+  - macros
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - attr_list
+  - md_in_html
+
+extra_css:
+  - stylesheets/custom.css
+
+extra_javascript:
+ - scripts/custom.js
