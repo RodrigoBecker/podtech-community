@@ -113,7 +113,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Cada material é fruto de anos de prática e vivência no mercado, garantindo que o que é ensinado seja realmente aplicável.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_002.svg" alt="Experiência real">
+      <img src="images/img_002.svg" alt="Experiência real">
     </div>
   </div>
 
@@ -123,7 +123,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Do iniciante ao avançado, nossas orientações são claras, progressivas e oferecem aprendizado contínuo.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_003.svg" alt="Acessível para todos os níveis">
+      <img src="images/img_003.svg" alt="Acessível para todos os níveis">
     </div>
   </div>
 
@@ -133,7 +133,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Guias, tutoriais e exemplos do mundo real, garantindo que você aprenda de forma rápida e eficiente.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_004.svg" alt="Materiais práticos">
+      <img src="images/img_004.svg" alt="Materiais práticos">
     </div>
   </div>
 
@@ -143,7 +143,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Não apenas teoria, mas a aplicação de soluções que funcionam no mercado, com ênfase em performance e crescimento.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_005.svg" alt="Boas práticas e escalabilidade">
+      <img src="images/img_005.svg" alt="Boas práticas e escalabilidade">
     </div>
   </div>
 
@@ -153,7 +153,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Ao invés de apenas aprender conceitos, incentivamos a aplicação prática em projetos reais, para que o conhecimento se torne uma habilidade.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_006.svg" alt="Abordagem hands-on">
+      <img src="images/img_006.svg" alt="Abordagem hands-on">
     </div>
   </div>
 
@@ -163,7 +163,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>O conteúdo é elaborado por especialistas com anos de atuação em diferentes tecnologias e desafios de mercado, assegurando que o aprendizado seja guiado por quem realmente entende o que funciona.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_007.svg" alt="Profissionais experientes">
+      <img src="images/img_007.svg" alt="Profissionais experientes">
     </div>
   </div>
 
@@ -173,7 +173,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>A comunidade ROUTE46 é composta por profissionais que compartilham suas próprias experiências, soluções e desafios, proporcionando uma troca contínua de aprendizado.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_008.svg" alt="Ambiente colaborativo">
+      <img src="images/img_008.svg" alt="Ambiente colaborativo">
     </div>
   </div>
 
@@ -183,7 +183,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
       <p>Mantemos o conteúdo sempre atualizado com as mais recentes tecnologias, tendências e práticas, garantindo que você esteja sempre à frente no seu desenvolvimento.</p>
     </div>
     <div class="diferencial-imagem">
-      <img src="/images/img_009.svg" alt="Atualizações constantes">
+      <img src="images/img_009.svg" alt="Atualizações constantes">
     </div>
   </div>
 </div>
@@ -195,7 +195,7 @@ O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mer
 
 <div class="profile-container">
   <div class="profile-image">
-    <img src="/images/me.png" alt="Rodrigo Becker">
+    <img src="images/me.png" alt="Rodrigo Becker">
   </div>
   <div class="profile-text">
     <h2>Olá, sou Rodrigo Becker 🤘 🤘</h2>
