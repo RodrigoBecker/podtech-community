@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://techhub.example.com/</loc>
-         <lastmod>2025-02-03</lastmod>
+         <lastmod>2025-02-04</lastmod>
     </url>
     <url>
          <loc>https://techhub.example.com/blog/</loc>
-         <lastmod>2025-02-03</lastmod>
+         <lastmod>2025-02-04</lastmod>
     </url>
     <url>
          <loc>https://techhub.example.com/blog/2024-02-01-primeira-postagem/</loc>
-         <lastmod>2025-02-03</lastmod>
+         <lastmod>2025-02-04</lastmod>
     </url>
     <url>
          <loc>https://techhub.example.com/blog/2024-02-02-segunda-postagem/</loc>
-         <lastmod>2025-02-03</lastmod>
+         <lastmod>2025-02-04</lastmod>
     </url>
 </urlset>
