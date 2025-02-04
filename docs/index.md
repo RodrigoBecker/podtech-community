@@ -48,13 +48,15 @@ title: "ROUTE46"
 ## ✨ Sobre o **ROUTE46** 
 
 
-<div style="display: flex; align-items: center;"> <div style="flex: 1;">
+<div class="container">
+<div class="text-content">
 <p align="justify">A <b>ROUTE46</b> nasceu com o propósito de <b><i>empoderar profissionais</b></i> através de uma documentação clara, objetiva e acessível.  
 Aqui, reunimos <b>tutoriais</b>, <b>guias</b> e <b>boas práticas</b> para que qualquer pessoa, independentemente do nível de experiência,  
 possa aprender e aplicar tecnologias modernas no seu dia a dia.</p>
-
-
-</div> <div style="flex: 1; padding-left: 20px;"> <img src="/images/img_001.svg" alt="Profissional aprendendo tecnologia" style="max-width: 100%; border-radius: 8px;"> </div> </div>
+</div>
+<div class="image-container">
+    <img src="images/img_001.svg" alt="Profissional aprendendo tecnologia" style="max-width: 100%; border-radius: 8px;">
+</div> </div>
 
 <p align="justify">
 Seja você um <b>iniciante</b> explorando novas possibilidades ou um <b>profissional</b> buscando otimização e novos conhecimentos,  
