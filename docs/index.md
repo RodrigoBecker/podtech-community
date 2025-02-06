@@ -45,12 +45,12 @@ title: ""
 
    
 ---
-## ✨ Sobre o **ROUTE46** 
+## ✨ Sobre a **PODtech** 
 
 
 <div class="container">
 <div class="text-content">
-<p align="justify">A <b>ROUTE46</b> nasceu com o propósito de <b><i>empoderar profissionais</b></i> através de uma documentação clara, objetiva e acessível.  
+<p align="justify">A <b>POD</b>tech nasceu com o propósito de <b><i>empoderar profissionais</b></i> através de uma documentação clara, objetiva e acessível.  
 Aqui, reunimos <b>tutoriais</b>, <b>guias</b> e <b>boas práticas</b> para que qualquer pessoa, independentemente do nível de experiência,  
 possa aprender e aplicar tecnologias modernas no seu dia a dia.</p>
 </div>
@@ -67,7 +67,7 @@ nosso compromisso é garantir um aprendizado fluído, intuitivo e prático, atra
 > 📖 **Aprenda. Construa. Compartilhe.** 🚀
 
 ---
-O ROUTE46 oferece conteúdos aprofundados sobre as principais tecnologias do mercado, cobrindo desenvolvimento, arquitetura, cloud computing e FinOps.
+a PODtech oferece conteúdos aprofundados sobre as principais tecnologias do mercado, cobrindo desenvolvimento, arquitetura, cloud computing e FinOps.
 
 ## 💻 Principais Áreas de Conhecimento
 
