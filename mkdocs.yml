@@ -1,4 +1,4 @@
-site_name: "ROUTE46" 
+site_name: " " 
 site_url: https://techhub.example.com
 repo_url: https://github.com/seu-repo
 repo_name: "seu-repo"
@@ -14,7 +14,7 @@ theme:
     - 404.html
   palette:
     - scheme: slate
-      primary: deep-purple
+      primary: custom
       accent: cyan
       toggle:
         icon: material/lightbulb-outline
@@ -28,8 +28,6 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-    #logo: assets/logo.svg
-    #favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
 

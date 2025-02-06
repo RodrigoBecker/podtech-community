@@ -1,9 +1,9 @@
 ---
-title: "ROUTE46"
+title: ""
 ---
 
 <div class="custom-hero">
-  <img src="images/logo.png" alt="Logo" class="banner-logo">
+  <img src="images/logo.svg" alt="Logo" class="banner-logo">
   <p>Explore nossa documentação de maneira interativa e descubra os principais recursos, tecnologias e guias práticos disponíveis.
 </p>
   <a href="frontend/" class="md-button">começar agora</a>
@@ -18,21 +18,21 @@ title: "ROUTE46"
 <div class="carousel-container">
   <div class="carousel">
     <div class="carousel-item">
-      <a href="blog/post/2024-02-01-primeiros-passos.md">
+      <a href=/blog/2024/02/01/primeiros-passos-com-cloud-computing/
         <h3>Primeiros passos com Cloud Computing</h3>
         <p>📅 Publicado em: 01/02/2024</p>
         <p>✍️ Autor: Rodrigo Becker</p>
       </a>
     </div>
     <div class="carousel-item">
-      <a href="blog/post/2024-02-02-finops.md">
+      <a href="/blog/posts/2024-02-02-finops.md">
         <h3>O que é FinOps e como otimizar custos na nuvem</h3>
         <p>📅 Publicado em: 02/02/2024</p>
         <p>✍️ Autor: Rodrigo Becker</p>
       </a>
     </div>
     <div class="carousel-item">
-      <a href="blog/post/2024-02-03-escalabilidade.md">
+      <a href="blog/posts/2024-02-03-escalabilidade.md">
         <h3>Melhores práticas para escalabilidade de aplicações</h3>
         <p>📅 Publicado em: 03/02/2024</p>
         <p>✍️ Autor: Rodrigo Becker</p>
