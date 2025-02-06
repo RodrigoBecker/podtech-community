@@ -1,3 +1,10 @@
+
+:root {
+  --md-primary-fg-color:        #dd7878;
+  --md-primary-fg-color--light: #ECB7B7;
+  --md-primary-fg-color--dark:  #282C34;
+}
+
 .md-header {
     background-color: #dd7878 !important;
 }
@@ -11,6 +18,8 @@ h3 {
 .container {
     display: flex;
     align-items: center;
+    flex-wrap: wrap; /* Permite que os itens quebrem para a linha seguinte */
+
 }
 
 .text-content {
@@ -112,12 +121,16 @@ code {
 .profile-container {
   width: 100%;
   overflow: hidden;
-
+  display: flex;
+  flex-direction: row; /* Padrão: imagem à esquerda e texto à direita */
+  align-items: center
 }
 
 .profile-image {
   float: left;
-  margin-right: 20px; 
+  margin-right: 20px;
+  flex-shrink: 0; /* Impede que a imagem encolha */
+
 }
 
 .profile-image img {
@@ -125,7 +138,6 @@ code {
   height: 300px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .profile-text {
@@ -196,7 +208,30 @@ code {
   margin-left: 20px;
 }
 
+
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
+  background-image: url("../images/icon.svg") ; /* Caminho para o novo ícone */
+  background-size: cover;
+  width: 30px; /* Ajuste conforme necessário */
+  height: 30px;
+}
+
+.md-nav__button.md-logo svg:not(:has(img)) {
+  display: none !important;
+}
+
+.md-nav__button.md-logo {
+
+  background-image: url("../images/logo.svg"); /* Caminho para o novo ícone */
+  background-size: cover;
+  height: 100px;
+}
+
+
+.md-nav__title::before {
+  content: "";
+}
+.md-header__button.md-logo.md-logo img {
     fill: currentcolor;
     display: block;
     height: 1.2rem;
@@ -289,3 +324,36 @@ code {
   }
 }
 
+@media screen and (max-width: 76.2344em) {
+    .md-nav--primary .md-nav__title .md-logo {
+      margin: 0;
+    }
+  }
+
+
+/* Ajuste para telas menores */
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column; /* Muda o layout para coluna em telas menores */
+        align-items: center;    /* Centraliza os itens */
+    }
+
+    .image-container {
+        padding-left: 0;        /* Remove o padding da imagem */
+        margin-bottom: 20px;    /* Adiciona margem inferior para espaçamento */
+    }
+
+     .profile-container {
+    flex-direction: column; /* Muda o layout para coluna em telas menores */
+    align-items: center;    /* Centraliza os itens */
+  }
+
+  .profile-image {
+    margin-right: 0;
+    margin-bottom: 20px; /* Adiciona um espaçamento abaixo da imagem */
+  }
+}
+
+svg path[d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"] {
+  display: none;
+}
