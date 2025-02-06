@@ -106,7 +106,7 @@ a PODtech oferece conteúdos aprofundados sobre as principais tecnologias do mer
 ---
 
 
-## 📌 Diferenciais do ROUTE46
+## 📌 Diferenciais da PODtech
 
 <div class="diferenciais">
   <div class="diferencial-item left">
@@ -172,7 +172,7 @@ a PODtech oferece conteúdos aprofundados sobre as principais tecnologias do mer
   <div class="diferencial-item left">
     <div class="diferencial-texto">
       <h3>Ambiente colaborativo e dinâmico</h3>
-      <p>A comunidade ROUTE46 é composta por profissionais que compartilham suas próprias experiências, soluções e desafios, proporcionando uma troca contínua de aprendizado.</p>
+      <p>A comunidade PODtech é composta por profissionais que compartilham suas próprias experiências, soluções e desafios, proporcionando uma troca contínua de aprendizado.</p>
     </div>
     <div class="diferencial-imagem">
       <img src="images/img_008.svg" alt="Ambiente colaborativo">
